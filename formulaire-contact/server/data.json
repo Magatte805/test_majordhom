@@ -34,5 +34,17 @@
     ],
     "typeDemande": "visite",
     "message": "bonjour"
+  },
+  {
+    "title": "Mrs",
+    "nom": "Lo",
+    "prenom": "Magatte",
+    "email": "magattel805@gmail.com",
+    "telephone": "0749073270",
+    "disponibilites": [
+      "Jeudi à 13h30"
+    ],
+    "typeDemande": "visite",
+    "message": "Bonjour"
   }
 ]

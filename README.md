@@ -11,16 +11,16 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois, réalisable en
 ![Formulaire vide](./formulaire-contact/screenshots/1.png)
 
 ### 2. Validation des erreurs (champs obligatoires)
-![Erreurs formulaire](./screenshots/2.png)
+![Erreurs formulaire](./formulaire-contact/screenshots/2.png)
 
 ### 3. Message de succès après envoi
-![Succès](./screenshots/3.png)
+![Succès](./formulaire-contact/screenshots/3.png)
 
 ### 4. Ajout des disponibilités
-![Ajout disponibilités](./screenshots/4.png)
+![Ajout disponibilités](./formulaire-contact/screenshots/4.png)
 
 ### 5. Erreur si aucune disponibilité n’est ajoutée
-![Erreur disponibilités](./screenshots/5.png)
+![Erreur disponibilités](./formulaire-contact/screenshots/5.png)
 
 
 # Stack technique & choix

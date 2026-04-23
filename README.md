@@ -8,7 +8,7 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois, réalisable en
 #Aperçu du formulaire
 
 ### 1. Formulaire vide
-![Formulaire vide](./screenshots/1.png)
+![Formulaire vide](./formulaire-contact/screenshots/1.png)
 
 ### 2. Validation des erreurs (champs obligatoires)
 ![Erreurs formulaire](./screenshots/2.png)

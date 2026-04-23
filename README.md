@@ -5,7 +5,7 @@ Je m'appelle Magatte Lo, étudiante en Master 2 MIASHS – parcours Web Analyste
 Je suis actuellement à la recherche d’un stage de 4 à 6 mois, réalisable entre mai et octobre, et je suis disponible immédiatement.
 
 
-#Aperçu du formulaire
+# Aperçu du formulaire
 
 ### 1. Formulaire vide
 ![Formulaire vide](./formulaire-contact/screenshots/1.png)

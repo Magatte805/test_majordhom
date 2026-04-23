@@ -23,7 +23,7 @@ Je suis actuellement à la recherche d’un stage de 4 à 6 mois, réalisable en
 ![Erreur disponibilités](./screenshots/5.png)
 
 
-#Stack technique & choix
+# Stack technique & choix
 
 ### Frontend
 - **React (Vite)** : framework utilisé pour construire une interface utilisateur rapide, moderne et réactive.

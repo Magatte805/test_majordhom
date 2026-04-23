@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Mr",
+    "nom": "Lo",
+    "prenom": "Magatte",
+    "email": "magattel805@gmail.com",
+    "telephone": "0749073270",
+    "disponibilites": [
+      "Vendredi à 09h30"
+    ],
+    "typeDemande": "visite",
+    "message": "bonjour"
+  },
+  {
+    "title": "Mr",
+    "nom": "Lo",
+    "prenom": "Magatte",
+    "email": "magattel805@gmail.com",
+    "telephone": "0749073270",
+    "disponibilites": [
+      "Samedi à 09h00"
+    ],
+    "typeDemande": "visite",
+    "message": "bonjour"
+  },
+  {
+    "title": "Mrs",
+    "nom": "Lo",
+    "prenom": "Magatte",
+    "email": "magattel805@gmail.com",
+    "telephone": "0749073270",
+    "disponibilites": [
+      "Vendredi à 13h45"
+    ],
+    "typeDemande": "visite",
+    "message": "bonjour"
+  }
+]
